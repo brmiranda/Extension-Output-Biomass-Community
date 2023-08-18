@@ -143,7 +143,6 @@ namespace Landis.Extension.Output.BiomassCommunity
 
         private void InitializeLogCommunity()
         {
-            //string logFileName = string.Format("output-communities\\community-input-file-{0}.txt", ModelCore.CurrentTime);
             string logFileName = string.Format("community-input-file-{0}.txt", ModelCore.CurrentTime);
             PlugIn.ModelCore.UI.WriteLine("   Opening community log file \"{0}\" ...", logFileName);
 

@@ -1,0 +1,9 @@
+LandisData Extension
+
+Name         "Output Biomass Community v2.1"
+Version      "2.1 (beta 1)"
+Type         output
+Assembly     Landis.Extension.Output.BiomassCommunity-v2.1
+Class        Landis.Extension.Output.BiomassCommunity.PlugIn
+Description  "Output maps of communities with biomass"
+CoreVersion  7.0
